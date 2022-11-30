@@ -1,1 +1,1 @@
-Script used to print the absolute path of the current working directory
+Script to list contents of the directory
