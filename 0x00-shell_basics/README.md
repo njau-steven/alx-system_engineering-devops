@@ -1,1 +1,1 @@
-How to create symbolic links
+Script tp move all uppercase starting words to tmp/u
