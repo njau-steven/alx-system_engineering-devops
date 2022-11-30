@@ -1,1 +1,1 @@
-Script to display contents in long format
+Script to display contents including hidden files
