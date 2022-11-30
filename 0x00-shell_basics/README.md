@@ -1,1 +1,1 @@
-Script to remove file betty
+Script to remove directory
