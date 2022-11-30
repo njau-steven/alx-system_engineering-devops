@@ -1,1 +1,1 @@
-script to diplay file type
+Script to copy HTML files
