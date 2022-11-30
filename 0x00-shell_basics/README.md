@@ -1,1 +1,1 @@
-Script to display hidden items userid
+Script to create directory in /tmp directory
