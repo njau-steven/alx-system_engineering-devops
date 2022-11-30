@@ -1,1 +1,1 @@
-Script to create directory in /tmp directory
+script to move betty
