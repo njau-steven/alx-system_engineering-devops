@@ -1,1 +1,1 @@
-Script to display contents of various files
+script to diplay file type
