@@ -1,1 +1,1 @@
-Script tp move all uppercase starting words to tmp/u
+Script to clean emacs
