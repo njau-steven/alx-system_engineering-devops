@@ -1,1 +1,1 @@
-Script to display contents including hidden files
+Script to display hidden items userid
