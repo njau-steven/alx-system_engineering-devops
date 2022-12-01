@@ -1,1 +1,1 @@
-Script to create tree
+Script to arrange files orderly
