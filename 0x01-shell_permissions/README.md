@@ -1,1 +1,1 @@
-Script to add execute rights to the file hello
+Script to add multiple permissions
