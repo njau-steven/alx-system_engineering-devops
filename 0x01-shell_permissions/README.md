@@ -1,1 +1,1 @@
-Script to grant execute permissions to everyone
+Script to only grant others all rights
