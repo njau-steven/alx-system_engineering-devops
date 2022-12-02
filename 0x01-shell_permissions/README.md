@@ -1,1 +1,1 @@
-Script to change current directory permissions
+Script to create and assign permissions to directory
