@@ -1,1 +1,1 @@
-Script to only grant others all rights
+Script to provide given permissions
