@@ -1,0 +1,3 @@
+#!/bin/bash
+chown --from=guillaume betty hello 
+Script to change owner only if owner is guillaume
