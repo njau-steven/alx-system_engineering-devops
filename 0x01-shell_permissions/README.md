@@ -1,1 +1,1 @@
-Script to change group file ownership
+Script to change user and group owner
