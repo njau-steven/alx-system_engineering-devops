@@ -1,1 +1,1 @@
-Script to change user and group owner
+Script to change to change file links permissions
