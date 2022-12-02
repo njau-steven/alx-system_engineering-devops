@@ -1,1 +1,1 @@
-Script to mirror permissions
+Script to change current directory permissions
