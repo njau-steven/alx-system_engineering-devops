@@ -1,1 +1,1 @@
-Script to print the current user
+Script to get user groups
