@@ -1,1 +1,1 @@
-Script to create am empty file
+Script to add execute rights to the file hello
