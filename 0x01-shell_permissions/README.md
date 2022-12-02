@@ -1,1 +1,1 @@
-Script to create and assign permissions to directory
+Script to change group file ownership
