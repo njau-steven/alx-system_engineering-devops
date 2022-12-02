@@ -1,1 +1,1 @@
-Script to provide given permissions
+Script to mirror permissions
