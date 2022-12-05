@@ -1,1 +1,1 @@
-Script to display hello world
+Script to display confused smiley
