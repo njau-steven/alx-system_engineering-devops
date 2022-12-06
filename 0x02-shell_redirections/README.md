@@ -1,1 +1,1 @@
-Script to print & display whats next
+Script to display files without bin word
