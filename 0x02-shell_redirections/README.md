@@ -1,1 +1,1 @@
-Script to output command into a file
+Script to duplicate the last line of iacta
