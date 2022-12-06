@@ -1,1 +1,1 @@
-Script to create an alias ls = rm*
+Script to display current user
