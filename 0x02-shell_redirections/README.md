@@ -1,1 +1,1 @@
-Script to remove duplicate file entries
+Script to find root word from passwd file
