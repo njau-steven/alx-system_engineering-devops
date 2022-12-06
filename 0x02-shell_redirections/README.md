@@ -1,1 +1,1 @@
-Script to create a file
+Script to output command into a file
