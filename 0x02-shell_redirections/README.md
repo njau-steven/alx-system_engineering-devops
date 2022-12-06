@@ -1,1 +1,1 @@
-Script to count the word bin in passwd file
+Script to print & display whats next
