@@ -1,1 +1,1 @@
-Script to duplicate the last line of iacta
+Script to delete all .js files
