@@ -1,1 +1,1 @@
-Script to sort the newest files
+Script to remove duplicate file entries
