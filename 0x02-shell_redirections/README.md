@@ -1,1 +1,1 @@
-Script to find empty files & directories
+Script to display all gif
