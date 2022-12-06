@@ -1,1 +1,1 @@
-Script to display files without bin word
+Script to display lines starting with letters
