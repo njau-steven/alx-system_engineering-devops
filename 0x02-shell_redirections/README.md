@@ -1,1 +1,1 @@
-Script to list all gif file 
+Script to create acrostic poem
