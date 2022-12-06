@@ -1,1 +1,1 @@
-Script to display contents of 2 files
+Script to display the last 10 lines of /etc/passwd
