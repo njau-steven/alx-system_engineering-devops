@@ -1,1 +1,1 @@
-Script to display users & directories sorted
+Script to find empty files & directories
