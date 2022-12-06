@@ -1,1 +1,1 @@
-Script to create acrostic poem
+Script to displa log files 
