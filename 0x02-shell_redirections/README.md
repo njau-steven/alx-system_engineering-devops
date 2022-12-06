@@ -1,1 +1,1 @@
-Script to display all gif
+Script to list all gif file 
