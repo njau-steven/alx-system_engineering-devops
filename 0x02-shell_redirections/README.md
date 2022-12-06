@@ -1,1 +1,1 @@
-Script to reverse 
+Script to display users & directories sorted
