@@ -1,1 +1,1 @@
-Script to find root word from passwd file
+Script to count the word bin in passwd file
