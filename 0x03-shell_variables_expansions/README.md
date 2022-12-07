@@ -1,1 +1,1 @@
-Script to add number to TRUEKNOWLDGE
+Script to divide power
