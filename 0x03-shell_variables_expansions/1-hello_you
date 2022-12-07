@@ -1,2 +1,3 @@
 #!/bin/bash
-echo hell0 
+name=$(id -nu)
+echo hello $name
