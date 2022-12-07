@@ -1,1 +1,1 @@
-Script to write combinations
+Decimal to hexadecimal 
