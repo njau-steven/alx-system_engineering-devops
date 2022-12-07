@@ -1,1 +1,1 @@
-Script to create global variable
+Script to add number to TRUEKNOWLDGE
