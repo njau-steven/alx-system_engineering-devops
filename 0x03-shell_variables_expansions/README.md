@@ -1,1 +1,1 @@
-Convert to binary
+Script to write combinations
