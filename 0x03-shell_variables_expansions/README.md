@@ -1,1 +1,1 @@
-Script to print global variables
+Script to display local variable
