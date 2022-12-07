@@ -1,1 +1,1 @@
-Script to add /action to path
+Script to print global variables
