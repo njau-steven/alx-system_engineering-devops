@@ -1,1 +1,1 @@
-Script to display local variable
+Script to create a local variable
