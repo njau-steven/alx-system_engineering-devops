@@ -1,1 +1,1 @@
-Script to display current user
+Script to display username
