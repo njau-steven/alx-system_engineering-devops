@@ -1,1 +1,1 @@
-Encypt and decypt
+Display odd lines
